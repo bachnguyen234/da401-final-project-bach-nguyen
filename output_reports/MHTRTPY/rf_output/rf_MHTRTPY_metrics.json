@@ -1,5 +1,5 @@
 {
-  "Target": "MHTRTPY",
+  "target": "MHTRTPY",
   "AUC_weighted": 0.7317082434010753,
   "Accuracy_weighted_thr0.5": 0.7885709299651777,
   "N_train": 42528,
