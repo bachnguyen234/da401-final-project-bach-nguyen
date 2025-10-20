@@ -1,0 +1,7 @@
+{
+  "Target": "SUTRTPY",
+  "AUC_weighted": 0.7800538224993288,
+  "Accuracy_weighted_thr0.5": 0.956991689763942,
+  "N_train": 42528,
+  "N_test": 14177
+}
