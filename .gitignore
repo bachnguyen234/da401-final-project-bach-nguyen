@@ -18,8 +18,5 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data (large files should go in Google Drive, not GitHub)
-data/
-
 # Other
 *.log
