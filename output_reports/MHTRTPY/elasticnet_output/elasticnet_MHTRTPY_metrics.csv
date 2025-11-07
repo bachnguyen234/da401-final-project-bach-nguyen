@@ -1,2 +1,0 @@
-target,n_train,n_test,auc_weighted,acc_weighted_thr_0.5,best_C,best_l1_ratio,n_selected_features
-MHTRTPY,42528,14177,0.7010914831258142,0.7753018837561177,3.593813663804626,0.8,43
