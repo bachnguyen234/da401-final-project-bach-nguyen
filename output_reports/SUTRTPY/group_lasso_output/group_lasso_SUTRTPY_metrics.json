@@ -1,5 +1,5 @@
 {
   "best_group_reg": 0.0001519911082952933,
-  "AUC_weighted": 0.7585816008508615,
-  "Accuracy_weighted_thr0.5": 0.7655042137552462
+  "AUC_weighted": 0.7780372037860279,
+  "Accuracy_weighted_thr0.5": 0.7771092932267313
 }
